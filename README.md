@@ -22,3 +22,8 @@ Visualize soccer passing patterns with Python, Matplotlib, and mplsoccer. This p
     StatsBomb data
     mplsoccer
     Matplotlib with tkinter
+
+## Example:
+
+![example_plot](https://github.com/gharazka/Football-Passes-Plot/assets/148285170/7ded7d94-7fb0-49ce-9022-b6b8db9a0681)
+
