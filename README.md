@@ -2,7 +2,7 @@
 
 ## Overview:
 
-Visualize soccer passing patterns with Python, Matplotlib, and mplsoccer. This project parses StatsBomb [data](https://github.com/statsbomb/open-data/)  to display a player's successful and unsuccessful passes. It offers a clear analysis of a player's passing game during a match.
+Visualize football passing patterns with Python, Matplotlib, and mplsoccer. This project parses StatsBomb [data](https://github.com/statsbomb/open-data/)  to display a player's successful and unsuccessful passes. It offers a clear analysis of a player's passing game during a match.
 
 ## Key Features:
 
